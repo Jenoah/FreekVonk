@@ -5,5 +5,5 @@ Proin egestas hendrerit auctor. Sed blandit sem vel leo vulputate gravida. Class
 
 Donec cursus magna dui, nec auctor massa maximus quis. Donec laoreet arcu at luctus ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut semper ligula. Pellentesque mattis massa a libero lacinia finibus. Nullam mollis dignissim orci, quis vulputate augue ornare vitae. Integer vel tempor odio. Fusce id nisi nec neque tincidunt vehicula feugiat facilisis risus. Sed ac leo turpis. Morbi vitae finibus tortor, at tempor libero.
 
-Groetjes,
+Met vriendelijke groet,
 Jenoah
